@@ -1,0 +1,20 @@
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\datalayer.dll.config
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\datalayer.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\datalayer.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\entities.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\framework.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\entities.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\framework.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\obj\Debug\datalayer.csprojResolveAssemblyReference.cache
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\obj\Debug\datalayer.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\datalayer\obj\Debug\datalayer.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\datalayer.dll.config
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\datalayer.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\datalayer.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\entities.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\framework.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\entities.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\bin\Debug\framework.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\obj\Debug\datalayer.csprojResolveAssemblyReference.cache
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\obj\Debug\datalayer.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\datalayer\obj\Debug\datalayer.pdb

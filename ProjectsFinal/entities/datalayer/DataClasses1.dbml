@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="StudentDB" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;AttachDbFilename=&quot;C:\Users\servent of Allah\Desktop\ProjectsFinal\StudentDB.mdf&quot;;Integrated Security=True;Connect Timeout=30;User Instance=True" SettingsObjectName="datalayer.Properties.Settings" SettingsPropertyName="StudentDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.teachers_salary" Member="teachers_salaries">
+    <Type Name="teachers_salary">
+      <Column Name="type_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="type" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="salary" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="teachers_salary_teacher_information" Member="teacher_informations" ThisKey="type" OtherKey="teacher_type" Type="teacher_information" />
+    </Type>
+  </Table>
+  <Table Name="dbo.teacher_information" Member="teacher_informations">
+    <Type Name="teacher_information">
+      <Column Name="teacher_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="teacher_name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="teacher_address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="teacher_phone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="teacher_type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="teacher_gender" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="teacher_age" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="teachers_salary_teacher_information" Member="teachers_salary" ThisKey="teacher_type" OtherKey="type" Type="teachers_salary" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.student_info" Member="student_infos">
+    <Type Name="student_info">
+      <Column Name="s_class" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="contactno" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="address" Type="System.String" DbType="NVarChar(1000) NOT NULL" CanBeNull="false" />
+      <Column Name="age" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="register" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="gender" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="father" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="mother" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="contact" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="amount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="paid" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="payable" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="student_info_rslt" Member="rslts" ThisKey="id" OtherKey="s_id" Type="rslt" />
+    </Type>
+  </Table>
+  <Table Name="dbo.rslt" Member="rslts">
+    <Type Name="rslt">
+      <Column Name="r_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="s_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="math" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="english" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="bangla" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="science" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="total_mark" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="student_info_rslt" Member="student_info" ThisKey="s_id" OtherKey="id" Type="student_info" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.login" Member="logins">
+    <Type Name="login">
+      <Column Name="user_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="user_name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="user_password" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

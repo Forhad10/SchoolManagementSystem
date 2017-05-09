@@ -1,0 +1,57 @@
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.exe.config
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.exe
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\datalayer.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\entities.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\framework.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\MetroFramework.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\MetroFramework.Fonts.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\datalayer.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\entities.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\framework.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.csprojResolveAssemblyReference.cache
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.ADD_TEACHER.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.admin.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.ADMIN_PASSWORD.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.grade.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.SIGNIN.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.MAIN.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.Properties.Resources.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.RESET_BALANCE.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.SALARY_OF_TEACHER.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.STUDENT_ADD.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.STUDENT_PAYMENT.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.teacher_SALARYs.resources
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.csproj.GenerateResource.Cache
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.exe
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.pdb
+F:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.exe.config
+F:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.exe
+F:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.exe.config
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.exe
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.exe
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\Uilayer.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\datalayer.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\entities.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\framework.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\MetroFramework.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\datalayer.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\entities.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\bin\Debug\framework.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.csprojResolveAssemblyReference.cache
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.ADD_TEACHER.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.admin.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.ADMIN_PASSWORD.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.grade.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.SIGNIN.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.MAIN.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.Properties.Resources.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.RESET_BALANCE.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.SALARY_OF_TEACHER.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.STUDENT_ADD.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.STUDENT_PAYMENT.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.teacher_SALARYs.resources
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\Uilayer\obj\x86\Debug\Uilayer.csproj.GenerateResource.Cache

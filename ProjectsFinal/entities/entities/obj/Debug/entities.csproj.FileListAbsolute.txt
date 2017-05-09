@@ -1,0 +1,15 @@
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\entities.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\entities.pdb
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\MetroFramework.Design.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\MetroFramework.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\MetroFramework.Fonts.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\obj\Debug\entities.dll
+E:\all information\essential thing boi,software,,,,,\poralekha\9th semester1\c#\school_managment_System\ProjectsFinal\entities\entities\obj\Debug\entities.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\entities.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\entities.pdb
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\MetroFramework.Design.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\MetroFramework.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\obj\Debug\entities.csprojResolveAssemblyReference.cache
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\obj\Debug\entities.dll
+C:\Users\sarvent of ALLAH\Desktop\INTERNSHIP\school_managment_System\ProjectsFinal\entities\entities\obj\Debug\entities.pdb
